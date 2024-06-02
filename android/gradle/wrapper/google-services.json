@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352034257442",
+    "project_id": "imagescanner-3cb4a",
+    "storage_bucket": "imagescanner-3cb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352034257442:android:7297c5bbed143518b4687b",
+        "android_client_info": {
+          "package_name": "com.arunava.kundu.imagescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASjkp0jA9SMkzRpq70qPzi0m5OTFGDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
