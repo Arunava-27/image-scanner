@@ -33,3 +33,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# build output
+build/
+dist/
+web-build/
+android/
